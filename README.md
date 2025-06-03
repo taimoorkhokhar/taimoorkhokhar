@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taimoor Khokhar</h1>
+<h1 align="center">Hi 👋, I'm Taimoor</h1>
 <h3 align="center">A Senior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taimoorkhokhar&label=Profile%20views&color=0e75b6&style=flat" alt="taimoorkhokhar" /> </p>
