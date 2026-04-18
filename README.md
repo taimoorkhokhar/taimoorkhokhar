@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=740&lines=Muhammad+Taimoor+Khokhar;Senior+Solutions+Architect+%7C+AI+Engineer;LLM+Systems+·+Cloud+Architecture+·+Full-Stack;Founder+%40+Gravlon+Technologies+(Est.+2018)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=740&lines=Muhammad+Taimoor+Khokhar;Senior+Solutions+Architect+%7C+AI+Engineer;AI+Agents+%7C+Cloud+Architecture+%7C+Full-Stack;Founder+%40+Gravlon+Technologies" alt="Typing SVG" />
 
 <br/>
 
@@ -30,7 +30,7 @@ education:   BEng Computer Science  ·  GIFT University  ·  2015–2019
 career:
   - Lead AI Engineer & Full-Stack   @  Global Clients via Upwork  (2018 – Present)
   - AI Security & Vision Engineer   @  Innovation Factory Ltd     (2019 – Present)
-  - Founder & Solutions Architect   @  Gravlon Technologies Ltd  (2022 – Present)
+  - Founder & Solutions Architect   @  Gravlon Technologies Ltd   (2022 – Present)
 
 expertise:
   - Agentic AI Systems & Multi-Model LLM Pipelines
