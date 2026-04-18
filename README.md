@@ -24,7 +24,8 @@ name:        Muhammad Taimoor Khokhar
 title:       Senior Solutions Architect  ·  AI Engineer  ·  Full-Stack Lead
 company:     Gravlon Technologies Ltd  ·  Est. 2018  ·  UK Registered
 website:     gravlontechnologies.com
-location:    Pakistan 🇵🇰  (serving clients globally)
+location:    Pakistan  (serving clients globally)
+background:  AI/ML Engineer @ AppCrates  →  Founder @ Gravlon Technologies
 
 expertise:
   - Agentic AI Systems & Multi-Model LLM Pipelines
@@ -42,37 +43,38 @@ open_to:
 
 ---
 
-## 🏢 Gravlon Technologies
+## Gravlon Technologies
 
 > **AI-first software company** — building proprietary products and delivering enterprise-grade solutions for clients across industries since 2018.
 
-Gravlon is a UK-registered technology company that combines **product thinking with deep engineering execution** across six service verticals:
+Gravlon is a UK-registered technology company combining **product thinking with deep engineering execution** across six service verticals:
 
 | Vertical | What We Deliver |
 |----------|----------------|
-| 🤖 **AI & Machine Learning** | Custom ML models, LLM pipelines, real-time AI analytics, intelligent automation |
-| ☁️ **Cloud Services** | Multi-cloud architecture, cloud migration, managed infrastructure at 99.9% uptime |
-| 💻 **Custom Software Development** | Prototype in 24h · MVP in 2 weeks · Production-grade full-stack systems |
-| 📊 **Data Analytics & Insights** | AI-driven analytics platforms, data engineering, actionable business intelligence |
-| 🔐 **Cybersecurity & Compliance** | Security architecture, risk mitigation, regulatory compliance frameworks |
-| 🚀 **Advanced Tech Solutions** | AI Agents · Digital Twins · IoT · Blockchain · AR/VR · Quantum-Ready Cloud |
+| **AI & Machine Learning** | Custom ML models, LLM pipelines, real-time AI analytics, intelligent automation |
+| **Cloud Services** | Multi-cloud architecture, cloud migration, managed infrastructure at 99.9% uptime |
+| **Custom Software Development** | Prototype in 24h · MVP in 2 weeks · Production-grade full-stack systems |
+| **Data Analytics & Insights** | AI-driven analytics platforms, data engineering, actionable business intelligence |
+| **Cybersecurity & Compliance** | Security architecture, risk mitigation, regulatory compliance frameworks |
+| **Advanced Tech Solutions** | AI Agents · Digital Twins · IoT · Blockchain · AR/VR · Quantum-Ready Cloud |
 
-**Gravlon by the numbers:**
+**Track record:**
 
 ```
-  🚀  50+    tech startups accelerated from concept to launch
-  📉  40%    average operational cost reduction via intelligent automation
-  ⚡  24h    time to a working, functional prototype
-  🗓️  2wk    average time from brief to production-ready MVP
-  ☁️  99.9%  uptime maintained across all managed cloud services
-  ⭐  100%   positive client feedback  ·  24/7 engineering support
+  →  50+    tech startups accelerated from concept to launch
+  →  40%    average operational cost reduction via intelligent automation
+  →  24h    time to a working, functional prototype
+  →  2wk    average time from brief to production-ready MVP
+  →  99.9%  uptime maintained across all managed cloud services
+  →  100%   positive client feedback  ·  24/7 engineering support
 ```
 
 ---
 
-## 🧠 Core Technical Expertise
+## Core Technical Expertise
 
-### 🤖 AI, LLMs & Machine Learning
+### AI, LLMs & Machine Learning
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -83,7 +85,8 @@ Gravlon is a UK-registered technology company that combines **product thinking w
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### ☁️ Cloud & DevOps Architecture
+### Cloud & DevOps Architecture
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -94,7 +97,8 @@ Gravlon is a UK-registered technology company that combines **product thinking w
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### 🏗️ Full-Stack Engineering
+### Full-Stack Engineering
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -105,7 +109,8 @@ Gravlon is a UK-registered technology company that combines **product thinking w
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### 🗄️ Data & Databases
+### Data & Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -115,19 +120,19 @@ Gravlon is a UK-registered technology company that combines **product thinking w
 
 ---
 
-## 📌 Featured Open-Source Work
+## Featured Open-Source Work
 
 > Most production systems are proprietary and under NDA. The following are representative public projects showcasing architecture patterns used at Gravlon.
 
 | Project | Architecture Highlights | Stack |
 |---------|------------------------|-------|
-| [🤖 Rasa AI + Docker](https://github.com/taimoorkhokhar/rasa_app_docker) | Production-containerized NLU pipeline — declarative Docker Compose deployment with persistent model volumes, environment isolation, and zero-downtime restart strategy | Python · Docker · Rasa |
-| [⚡ ZeroRPC Node↔Python Bridge](https://github.com/taimoorkhokhar/zerorpc-nodejs-python) | High-throughput IPC bridge enabling typed, bidirectional microservice communication between Node.js and Python runtimes with near-zero serialization overhead | Node.js · Python · ZeroRPC |
-| [🧠 XR Conversational Agent](https://github.com/taimoorkhokhar/Rasa_zero_rpc_XR_bot) | Real-time NLU agent built for extended-reality environments — leverages ZeroRPC for sub-millisecond cross-runtime calls in interactive 3D contexts | JavaScript · Rasa · ZeroRPC |
+| [Rasa AI + Docker](https://github.com/taimoorkhokhar/rasa_app_docker) | Production-containerized NLU pipeline — declarative Docker Compose deployment with persistent model volumes, environment isolation, and zero-downtime restart strategy | Python · Docker · Rasa |
+| [ZeroRPC Node↔Python Bridge](https://github.com/taimoorkhokhar/zerorpc-nodejs-python) | High-throughput IPC bridge enabling typed, bidirectional microservice communication between Node.js and Python runtimes with near-zero serialization overhead | Node.js · Python · ZeroRPC |
+| [XR Conversational Agent](https://github.com/taimoorkhokhar/Rasa_zero_rpc_XR_bot) | Real-time NLU agent built for extended-reality environments — leverages ZeroRPC for sub-millisecond cross-runtime calls in interactive 3D contexts | JavaScript · Rasa · ZeroRPC |
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -165,6 +170,6 @@ Gravlon is a UK-registered technology company that combines **product thinking w
 
 <br/>
 
-<sub><em>⚡ Architecting intelligent systems — from LLM pipelines to cloud-native infrastructure.</em></sub>
+<sub><em>Architecting intelligent systems — from LLM pipelines to cloud-native infrastructure.</em></sub>
 
 </div>
