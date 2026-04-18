@@ -22,7 +22,7 @@
 ```yaml
 name:        Muhammad Taimoor Khokhar
 title:       Senior Solutions Architect  ·  AI Engineer  ·  Full-Stack Lead
-company:     Gravlon Technologies Ltd  ·  Est. 2018  ·  UK Registered
+company:     Gravlon Technologies Ltd
 website:     gravlontechnologies.com
 location:    Pakistan  (serving clients globally)
 education:   BEng Computer Science  ·  GIFT University  ·  2015–2019
