@@ -168,11 +168,6 @@ Gravlon is a UK-registered technology company combining **product thinking with 
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=taimoorkhokhar&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
