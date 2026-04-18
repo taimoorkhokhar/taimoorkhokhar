@@ -50,7 +50,7 @@ open_to:
 
 ## Gravlon Technologies
 
-> **AI-first software company** — building proprietary products and delivering enterprise-grade solutions for clients across industries since 2018.
+> **AI-first software company** — building proprietary products and delivering enterprise-grade solutions for clients across industries.
 
 Gravlon is a UK-registered technology company combining **product thinking with deep engineering execution** across six service verticals:
 
