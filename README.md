@@ -6,8 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taimoorkhokhar)
 [![Gravlon](https://img.shields.io/badge/Gravlon_Technologies-gravlontechnologies.com-7C3AED?style=for-the-badge&logo=rocket&logoColor=white)](https://gravlontechnologies.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Top_Rated_%7C_100%25_JSS-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01178e56c81328c654)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/taimoorkhokhar)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/taimoor7637)
 
 <br/>
 
@@ -25,15 +25,20 @@ title:       Senior Solutions Architect  ·  AI Engineer  ·  Full-Stack Lead
 company:     Gravlon Technologies Ltd  ·  Est. 2018  ·  UK Registered
 website:     gravlontechnologies.com
 location:    Pakistan  (serving clients globally)
-background:  AI/ML Engineer @ AppCrates  →  Founder @ Gravlon Technologies
+education:   BEng Computer Science  ·  GIFT University  ·  2015–2019
+
+career:
+  - Lead AI Engineer & Full-Stack   @  Global Clients via Upwork  (2018 – Present)
+  - AI Security & Vision Engineer   @  Innovation Factory Ltd     (2019 – Present)
+  - Founder & Solutions Architect   @  Gravlon Technologies Ltd  (2022 – Present)
 
 expertise:
   - Agentic AI Systems & Multi-Model LLM Pipelines
-  - Custom ML Fine-Tuning, RAG Architecture & AI Evaluation
+  - RAG Architecture, Custom Fine-Tuning & AI Evaluation
+  - Voice AI, Deepfake Detection & Computer Vision
   - Cloud-Native Infrastructure  (AWS · Azure · GCP)
   - Full-Stack Engineering  (Python · TypeScript · React)
   - Cybersecurity Architecture & Compliance Frameworks
-  - Advanced Tech  (IoT · Blockchain · Digital Twins · AR/VR)
 
 open_to:
   - Enterprise AI architecture & consulting engagements
@@ -71,16 +76,33 @@ Gravlon is a UK-registered technology company combining **product thinking with 
 
 ---
 
+## Production AI — Case Studies
+
+> Real outcomes from live client deployments across Gravlon and independent engagements. Most systems are under NDA — these are representative case studies.
+
+| System | Business Impact | Core Stack |
+|--------|----------------|------------|
+| **DocuCopilot** — RAG Knowledge Copilot | Trained on 500+ internal contracts. Saved **200+ legal review hours** delivering instant, accurate answers from a secure private knowledge base | LangChain · LlamaIndex · OpenAI · ChromaDB |
+| **Autonomous Sales Agent** | 24/7 agentic lead qualification and calendar booking. Boosted conversion rates with **zero human intervention** in the qualification loop | LangChain · OpenAI · n8n · Python |
+| **Intelligent AutoScheduler** | LLM-driven workflow syncing 10+ calendar applications — understands scheduling conflicts and preferences to **fully automate** a complex administrative operation | OpenAI · Make.com · Python · API Integrations |
+| **AI Voice & Deepfake Detection** | Voice authentication system achieving **98% accuracy** in synthetic speech detection using voice vector embeddings and deep learning — deployed at Innovation Factory Ltd | PyTorch · Voice AI · Deep Learning |
+| **Autonomous Surveillance Dashboard** | Real-time YOLOv8 object detection with GPT-4 Vision for natural language threat summaries. **Reduced manual monitoring by 90%** across live video feeds | YOLOv8 · GPT-4 Vision · OpenCV · Python |
+
+---
+
 ## Core Technical Expertise
 
 ### AI, LLMs & Machine Learning
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00CCCC?style=flat-square&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -109,26 +131,24 @@ Gravlon is a UK-registered technology company combining **product thinking with 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### Data & Databases
+### Data, Databases & Vector Search
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logoColor=white)
 
----
+### Automation & Orchestration
 
-## Featured Open-Source Work
-
-> Most production systems are proprietary and under NDA. The following are representative public projects showcasing architecture patterns used at Gravlon.
-
-| Project | Architecture Highlights | Stack |
-|---------|------------------------|-------|
-| [Rasa AI + Docker](https://github.com/taimoorkhokhar/rasa_app_docker) | Production-containerized NLU pipeline — declarative Docker Compose deployment with persistent model volumes, environment isolation, and zero-downtime restart strategy | Python · Docker · Rasa |
-| [ZeroRPC Node↔Python Bridge](https://github.com/taimoorkhokhar/zerorpc-nodejs-python) | High-throughput IPC bridge enabling typed, bidirectional microservice communication between Node.js and Python runtimes with near-zero serialization overhead | Node.js · Python · ZeroRPC |
-| [XR Conversational Agent](https://github.com/taimoorkhokhar/Rasa_zero_rpc_XR_bot) | Real-time NLU agent built for extended-reality environments — leverages ZeroRPC for sub-millisecond cross-runtime calls in interactive 3D contexts | JavaScript · Rasa · ZeroRPC |
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 
 ---
 
